@@ -1105,7 +1105,7 @@
     <div class="gallery-grid" id="galleryGrid">
 
       <div class="gallery-card reveal" data-cat="cctv">
-        <div class="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee26e3ea-e57b-4b0a-ab64-c8ad3f15df6c" />
+        <div class="<div class="gallery-thumb cctv"><img src="cctv-16cameras.jpg.jpeg" alt="16-camera CCTV system, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div> />
 ">📹<div class="ph-label">Photo coming soon</div></div>
         <div class="gallery-info">
           <div class="gallery-cat">📹 CCTV Project</div>
