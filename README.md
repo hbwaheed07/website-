@@ -1,4 +1,4 @@
-<html lang="en">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e908cc55-93a9-4080-bc03-c919ef352d3d" /><html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -1105,7 +1105,8 @@
     <div class="gallery-grid" id="galleryGrid">
 
       <div class="gallery-card reveal" data-cat="cctv">
-        <div class="gallery-thumb cctv">📹<div class="ph-label">Photo coming soon</div></div>
+        <div class="<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee26e3ea-e57b-4b0a-ab64-c8ad3f15df6c" />
+">📹<div class="ph-label">Photo coming soon</div></div>
         <div class="gallery-info">
           <div class="gallery-cat">📹 CCTV Project</div>
           <div class="gallery-title">Commercial Building — 16 Cameras</div>
