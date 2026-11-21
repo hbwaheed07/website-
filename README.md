@@ -1398,17 +1398,33 @@
 
   // Form submit
   function submitForm() {
-    const name = document.getElementById('fname').value;
-    const phone = document.getElementById('fphone').value;
-    const service = document.getElementById('fservice').value;
-    if (!name || !phone || !service) {
-      alert('Please fill in your name, phone number, and the service you need.');
-      return;
-    }
-    document.getElementById('successMsg').style.display = 'block';
-    document.querySelector('.submit-btn').disabled = true;
-    document.querySelector('.submit-btn').textContent = 'Request Sent ✓';
+  const val = (id) => {
+    const el = document.getElementById(id);
+    return el ? el.value.trim() : '';
+  };
+  const name = val('fname');
+  const phone = val('fphone');
+  const service = val('fservice');
+  if (!name || !phone || !service) {
+    alert('Please fill in your name, phone number, and the service you need.');
+    return;
   }
+  const property = val('fproperty');
+  const details = val('fdetails');
+  const lines = [
+    'Hello HBWAHEED, I would like a quote.',
+    'Name: ' + name,
+    'Phone: ' + phone,
+    'Service: ' + service
+  ];
+  if (property) lines.push('Property: ' + property);
+  if (details) lines.push('Details: ' + details);
+  window.open('https://wa.me/2347067612107?text=' + encodeURIComponent(lines.join('\n')), '_blank');
+  document.getElementById('successMsg').innerHTML =
+    '✅ <strong>Almost done!</strong><br>Tap Send in WhatsApp so we receive your request.<br>For urgent jobs call <strong>+234 706 761 2107</strong>';
+  document.getElementById('successMsg').style.display = 'block';
+  document.querySelector('.submit-btn').textContent = 'Opening WhatsApp...';
+}
 
   // Scroll reveal
   const observer = new IntersectionObserver((entries) => {
