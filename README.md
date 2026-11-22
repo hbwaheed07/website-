@@ -1159,7 +1159,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="cctv">
-        <div class="gallery-thumb cctv">📹<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb cctv"><img src="warehouse-cctv.jpeg" alt="Perimeter CCTV cameras at an industrial site" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">📹 CCTV Project</div>
           <div class="gallery-title">Warehouse Surveillance</div>
@@ -1168,7 +1168,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="solar">
-        <div class="gallery-thumb solar">☀️<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb solar"><img src="solar-sako-backup.jpeg" alt="Hybrid solar inverter with battery backup" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">☀️ Solar Project</div>
           <div class="gallery-title">Commercial Solar</div>
@@ -1177,7 +1177,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="networking">
-        <div class="gallery-thumb net">🌐<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb net"><img src="wifi-access-point.jpeg" alt="Wi-Fi access point installation" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">🌐 Network Project</div>
           <div class="gallery-title">Wi-Fi Infrastructure</div>
