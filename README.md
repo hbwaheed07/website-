@@ -1132,7 +1132,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="fire">
-        <div class="gallery-thumb fire">🔥<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb fire"><img src="fair-alarm-panel.jpeg" alt="Addressable fire alarm control panel, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">🔥 Fire Alarm Project</div>
           <div class="gallery-title">Hotel Fire Alarm System</div>
