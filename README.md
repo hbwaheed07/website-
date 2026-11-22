@@ -968,8 +968,8 @@
         <a href="#gallery" class="btn-outline">See Our Work</a>
       </div>
       <div class="hero-stats">
-        <div class="stat"><div class="stat-num">500+</div><div class="stat-lbl">Installations Done</div></div>
-        <div class="stat"><div class="stat-num">10+</div><div class="stat-lbl">Years Experience</div></div>
+        <div class="stat"><div class="stat-num">+</div><div class="stat-lbl">Installations Done</div></div>
+        <div class="stat"><div class="stat-num">+</div><div class="stat-lbl">Years Experience</div></div>
         <div class="stat"><div class="stat-num">100%</div><div class="stat-lbl">Client Satisfaction</div></div>
       </div>
     </div>
