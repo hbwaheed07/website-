@@ -1141,7 +1141,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="intercom">
-        <div class="gallery-thumb intercom">🔔<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb intercom"><img src="intercom-install.jpeg" alt="Video intercom and access control installation, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">🔔 Intercom Project</div>
           <div class="gallery-title">Intercom</div>
@@ -1150,7 +1150,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="electrical">
-        <div class="gallery-thumb elec">⚡<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb elec"><img src="electrical-work.jpeg" alt="Electrical panel and wiring work, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">⚡ Electrical Project</div>
           <div class="gallery-title">Full Rewire</div>
