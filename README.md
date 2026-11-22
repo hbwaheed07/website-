@@ -1171,8 +1171,8 @@
         <div class="gallery-thumb solar"><img src="solar-sako-backup.jpeg" alt="Hybrid solar inverter with battery backup" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">☀️ Solar Project</div>
-          <div class="gallery-title">Commercial Solar</div>
-          <div class="gallery-meta">Sako Inverter + Hasic Battery</div>
+          <div class="gallery-title">Hybrid Solar Backup System</div>
+          <div class="gallery-meta">Sako Inverter + Battery Storage</div>
         </div>
       </div>
 
@@ -1180,8 +1180,8 @@
         <div class="gallery-thumb net"><img src="wifi-access-point.jpeg" alt="Wi-Fi access point installation" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">🌐 Network Project</div>
-          <div class="gallery-title">Wi-Fi Infrastructure</div>
-          <div class="gallery-meta">Structured Cabling + APs</div>
+          <div class="gallery-title">Wi-Fi Access Point Installation</div>
+          <div class="gallery-meta">Ubiquiti Access Point</div>
         </div>
       </div>
 
