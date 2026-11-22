@@ -1105,10 +1105,10 @@
     <div class="gallery-grid" id="galleryGrid">
 
       <div class="gallery-card reveal" data-cat="cctv">
-        <div class="gallery-thumb cctv"><img src="cctv-%2016cameras.jpg.jpeg" alt="16-camera CCTV system, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div class="gallery-thumb cctv"><img src="cctv-monitor-wall.jpeg" alt="16-camera CCTV system, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">📹 CCTV Project</div>
-          <div class="gallery-title">Commercial Building — 16 Cameras</div>
+          <div class="gallery-title">Commercial Building — Large Multi-Camera System</div>
           <div class="gallery-meta">Full IP CCTV System · Katsina</div>
         </div>
       </div>
