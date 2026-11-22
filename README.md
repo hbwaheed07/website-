@@ -1144,8 +1144,8 @@
         <div class="gallery-thumb intercom">🔔<div class="ph-label">Photo coming soon</div></div>
         <div class="gallery-info">
           <div class="gallery-cat">🔔 Intercom Project</div>
-          <div class="gallery-title">Apartment Block Intercom</div>
-          <div class="gallery-meta">Video + Access Control · Katsina</div>
+          <div class="gallery-title">Intercom</div>
+          <div class="gallery-meta">Video + Access Control</div>
         </div>
       </div>
 
@@ -1153,8 +1153,8 @@
         <div class="gallery-thumb elec">⚡<div class="ph-label">Photo coming soon</div></div>
         <div class="gallery-info">
           <div class="gallery-cat">⚡ Electrical Project</div>
-          <div class="gallery-title">Full Rewire — 5-Bedroom House</div>
-          <div class="gallery-meta">Panel Upgrade + Lighting · Katsina</div>
+          <div class="gallery-title">Full Rewire</div>
+          <div class="gallery-meta">Panel Upgrade + Lighting</div>
         </div>
       </div>
 
@@ -1162,8 +1162,8 @@
         <div class="gallery-thumb cctv">📹<div class="ph-label">Photo coming soon</div></div>
         <div class="gallery-info">
           <div class="gallery-cat">📹 CCTV Project</div>
-          <div class="gallery-title">Warehouse Surveillance — 8 Cameras</div>
-          <div class="gallery-meta">NVR + Night Vision · Katsina</div>
+          <div class="gallery-title">Warehouse Surveillance</div>
+          <div class="gallery-meta">NVR + Night Vision</div>
         </div>
       </div>
 
@@ -1171,8 +1171,8 @@
         <div class="gallery-thumb solar">☀️<div class="ph-label">Photo coming soon</div></div>
         <div class="gallery-info">
           <div class="gallery-cat">☀️ Solar Project</div>
-          <div class="gallery-title">Commercial Solar — 4 × 500W</div>
-          <div class="gallery-meta">Sako Inverter + Hasic Battery · Katsina</div>
+          <div class="gallery-title">Commercial Solar</div>
+          <div class="gallery-meta">Sako Inverter + Hasic Battery</div>
         </div>
       </div>
 
@@ -1180,8 +1180,8 @@
         <div class="gallery-thumb net">🌐<div class="ph-label">Photo coming soon</div></div>
         <div class="gallery-info">
           <div class="gallery-cat">🌐 Network Project</div>
-          <div class="gallery-title">School Wi-Fi Infrastructure</div>
-          <div class="gallery-meta">Structured Cabling + 12 APs · Katsina</div>
+          <div class="gallery-title">Wi-Fi Infrastructure</div>
+          <div class="gallery-meta">Structured Cabling + APs</div>
         </div>
       </div>
 
@@ -1206,7 +1206,7 @@
         <div class="step-num">01</div>
         <div class="step-icon">📞</div>
         <div class="step-title">Consultation</div>
-        <div class="step-text">We discuss your needs, property size, and budget. Call us or fill out the quote form — no obligation.</div>
+        <div class="step-text">We discuss your needs, property size, and budget. Call us or fill out the quote form no obligation.</div>
       </div>
       <div class="step reveal">
         <div class="step-num">02</div>
@@ -1245,7 +1245,7 @@
     </div>
     <div class="contact-grid">
       <div class="contact-info reveal">
-        <p>Fill in the quote form and we'll get back to you within 24 hours. Or reach us directly — we're available 7 days a week.</p>
+        <p>Fill in the quote form and we'll get back to you within 24 hours. Or reach us directly we're available 24/7.</p>
         <div class="contact-item">
           <div class="ci-icon">📞</div>
           <div>
@@ -1264,7 +1264,7 @@
           <div class="ci-icon">📍</div>
           <div>
             <div class="ci-label">Location</div>
-            <div class="ci-val">Katsina, Nigeria</div>
+            <div class="ci-val">KATSINA, Katsina STATE Nigeria</div>
           </div>
         </div>
         <div class="contact-item">
@@ -1366,7 +1366,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <div class="footer-copy">© 2024 HBWAHEED Electrical ICT Solution. All rights reserved.</div>
+      <div class="footer-copy">© 2025 HBWAHEED Electrical ICT Solution. All rights reserved.</div>
       <div class="footer-copy">Quality installations you can trust.</div>
     </div>
   </div>
