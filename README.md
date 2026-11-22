@@ -1114,7 +1114,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="networking">
-        <div class="gallery-thumb net">🌐<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb net"><img src="office-network.jpeg" alt="Office network rollout, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">🌐 Network Project</div>
           <div class="gallery-title">Office Network Rollout</div>
