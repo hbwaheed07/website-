@@ -1123,7 +1123,7 @@
       </div>
 
       <div class="gallery-card reveal" data-cat="solar">
-        <div class="gallery-thumb solar">☀️<div class="ph-label">Photo coming soon</div></div>
+        <div class="gallery-thumb solar"><img src="solar-install.jpeg" alt="Residential solar installation with battery storage, Katsina" style="width:100%;height:100%;object-fit:cover;display:block"></div>
         <div class="gallery-info">
           <div class="gallery-cat">☀️ Solar Project</div>
           <div class="gallery-title">Residential Solar — 8kWh</div>
